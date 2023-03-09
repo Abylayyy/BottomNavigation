@@ -20,5 +20,6 @@ fun SettingsScreen() {
             fontSize = 30.sp,
             fontWeight = FontWeight.Bold
         )
+        BottomSheetScreen()
     }
 }
